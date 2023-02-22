@@ -1,8 +1,8 @@
 [
     {
-        "question": "...",
-        "choices":{"a":"...","b":"...","c":"..."},
-        "answer":"...",
+        "question": "Greeting?",
+        "choices":{"a":"Hey","b":"Hi","c":"Hello"},
+        "answer":"a",
         "explanation":"..."
     }
 ]
